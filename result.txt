@@ -1,0 +1,4 @@
+
+> yamaps@1.0.0 start /Users/ruslan_firefly/works/youdo/yamaps
+> babel-node test.js --presets es2015,stage-2,latest
+
